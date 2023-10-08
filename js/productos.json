@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "nombre": "Smash Cheese",
+        "precio": 480,
+        "imagen": "../img/burger 1.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Smash Alioli",
+        "precio": 490,
+        "imagen": "../img/burger 2.jpg"
+    },
+    {
+        "id": "3",
+        "nombre": "Smash Egg",
+        "precio": 510,
+        "imagen": "../img/burger 3.jpg"
+    },
+    {
+        "id": "4",
+        "nombre": "Smash Veggie",
+        "precio": 530,
+        "imagen": "../img/burger 4.jpg"
+    },
+    {
+        "id": "5",
+        "nombre": "Smash Onion",
+        "precio": 530,
+        "imagen": "../img/burger 5.jpg"
+    },
+    {
+        "id": "6",
+        "nombre": "Smash Clasic",
+        "precio": 540,
+        "imagen": "../img/burger 6.jpg"
+    },
+    {
+        "id": "7",
+        "nombre": "Smash Salad",
+        "precio": 560,
+        "imagen": "../img/burger 7.jpg"
+    },
+    {
+        "id": "8",
+        "nombre": "Smash Cuádruple",
+        "precio": 630,
+        "imagen": "../img/burger 8.jpg"
+    },
+    {
+        "id": "9",
+        "nombre": "Papas Fritas",
+        "precio": 280,
+        "imagen": "../img/papas fritas.jpg"
+    },
+    {
+        "id": "10",
+        "nombre": "Papas Fritas Cheddar Bacon",
+        "precio": 330,
+        "imagen": "../img/papas fritas cheddar.jpg"
+    },
+    {
+        "id": "11",
+        "nombre": "Nuggets",
+        "precio": 350,
+        "imagen": "../img/nuggets.jpg"
+    },
+    {
+        "id": "12",
+        "nombre": "Aros de cebolla",
+        "precio": 360,
+        "imagen": "../img/aros de cebolla.jpg"
+    },
+    {
+        "id": "11",
+        "nombre": "Coca-Cola",
+        "precio": 130,
+        "imagen": "../img/coca cola.jpg"
+    },
+    {
+        "id": "12",
+        "nombre": "Fanta",
+        "precio": 130,
+        "imagen": "../img/fanta.jpg"
+    },
+    {
+        "id": "13",
+        "nombre": "Sprite",
+        "precio": 130,
+        "imagen": "../img/sprite.jpg"
+    },
+    {
+        "id": "14",
+        "nombre": "Jugo de Naranja",
+        "precio": 160,
+        "imagen": "../img/jugo de naranja.jpg"
+    },
+    {
+        "id": "15",
+        "nombre": "Churros",
+        "precio": 250,
+        "imagen": "../img/churros.jpg"
+    },
+    {
+        "id": "16",
+        "nombre": "Brownie",
+        "precio": 260,
+        "imagen": "../img/brownie.jpg"
+    },
+    {
+        "id": "17",
+        "nombre": "Torta Oreo",
+        "precio": 270,
+        "imagen": "../img/torta oreo.jpg"
+    },
+    {
+        "id": "18",
+        "nombre": "Tiramisu",
+        "precio": 290,
+        "imagen": "../img/tiramisu.jpg"
+    }
+]

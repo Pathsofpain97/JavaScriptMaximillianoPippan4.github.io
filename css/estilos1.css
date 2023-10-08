@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    color: #222222;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    perspective: 1000px;
+}
+
+.navbar{
+    align-items: center;
+    justify-items: center;
+}
+
+.container1{
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card1{
+    min-height: 60vh;
+    width: 24rem;
+    border-radius: 16px;
+    padding: 2rem 3rem;
+    box-shadow: 0 30px 30px rgba(0, 0, 0, 0.103), 0 0 50px rgba(0, 0, 0, 0.12);
+    transform-style: preserve-3d;
+    transition: all .6s ease-out;
+}
+
+.burger{
+    min-width: 32vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform-style: preserve-3d;
+}
+
+.burger img{
+    width: 20rem;
+    transform-style: preserve-3d;
+    transition: all .6s ease-out;
+    filter: drop-shadow(9px 16px 3px #000A);
+}
+
+.circle{
+    position: absolute;
+    width: 17.5rem;
+    height: 17.5rem;
+    border-radius: 50%;
+    background: linear-gradient(to right, rgb(250, 165, 18), rgb(242, 209, 22));
+}
+
+.info{
+    transform-style: preserve-3d;
+}
+
+.info h1{
+    font-size: 1.8rem;
+    padding: 1rem 0 0;
+    transform-style: preserve-3d;
+    transition: all .6s ease-out;
+    text-align: center;
+    padding-top: 1.5rem;
+}
+
+.info h2{
+    font-size: 1.3rem;
+    padding: 1rem 0 2rem;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #171717;
+    transform-style: preserve-3d;
+    transition: all .6s ease-out;
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.bienvenido{
+    transform-style: preserve-3d;
+    transition: .2s;
+    padding-bottom: 2rem;
+}
+
+.bienvenido button{
+    width: 100%;
+    color: #ffffff;
+    background-color: #ff5739;
+    border-radius: 30px;
+    border: none;
+    padding: 1rem 0;
+    font-size: 1.3rem;
+    transform: .2s;
+}
+
+.bienvenido button:hover{
+    cursor: pointer;
+    background-color: #fd4120;
+}
+
+.bienvenido a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.animBurger{
+    transform: translateZ(100px) rotateZ(-10deg);
+    -moz-transform: translateZ(80px) rotateZ(-10deg);
+}
+
+.animTitle{
+    transform: translateZ(80px);
+    -moz-transform: translateZ(80px);
+}
+
+.animSubTitle{
+    transform: translateZ(60px);
+    -moz-transform: translateZ(70px);
+}
+
+.animBienvenido{
+    transform: translateZ(60px);
+    -moz-transform: translateZ(40px);
+}
