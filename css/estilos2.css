@@ -141,7 +141,15 @@ i {
 #footer a:hover{
 	color: #9e9d9d;
 }
-  
+
+#textorick{
+    color: #ffffff;
+    text-decoration: solid;
+	font-size: 1.4rem;
+	text-align: center;
+	margin: 0px auto;
+}
+
 #copyrigth {
 	color: #9e9d9d;
 	font-size: 1.2rem;
